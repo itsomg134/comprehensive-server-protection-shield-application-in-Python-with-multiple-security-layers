@@ -17,6 +17,7 @@
 - **🚨 Intrusion Detection** - Real-time detection of port scans and suspicious activities
 - **📊 System Monitoring** - Continuous monitoring of CPU, memory, and network connections
 - **📝 Comprehensive Logging** - Detailed security logs with alert system
+<img width="1881" height="4618" alt="image" src="https://github.com/user-attachments/assets/f830412c-3d6b-4c3c-9822-85c72e025b5e" />
 
 ### 🎯 Additional Capabilities
 - 🌐 **Web Admin Interface** - Real-time dashboard for monitoring and management
